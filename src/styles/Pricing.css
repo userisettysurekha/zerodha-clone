@@ -1,0 +1,4 @@
+.charges-table { background: #fff; border: 1px solid var(--border); min-width: 640px; }
+.charges-table th, .charges-table td { padding: 14px 16px; vertical-align: top; }
+.charges-table thead th { background: var(--blue-soft); font-weight: 600; }
+.charges-table tbody th { font-weight: 600; width: 28%; }

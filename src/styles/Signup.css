@@ -1,0 +1,10 @@
+.signup .notice { margin-top: 24px; margin-bottom: 0; }
+.field { margin-bottom: 20px; }
+.field label { display: block; font-weight: 500; margin-bottom: 6px; color: var(--text); }
+.field input { width: 100%; min-height: 48px; padding: 0 14px; font-size: 1rem; border: 1px solid #aeb7c4; border-radius: 6px; }
+.field input:focus { outline: 3px solid #86b0ec; border-color: var(--blue); }
+.field input[aria-invalid="true"] { border-color: #b42318; }
+.field-error { color: #b42318; font-size: .9rem; margin: 6px 0 0; }
+.form-success { margin: 16px 0 0; padding: 12px 14px; background: #e8f5ee; color: #14532d; border-radius: 6px; }
+.signup-back { margin-top: 16px; }
+.not-found h1 { font-size: 4rem; margin: 8px 0; }

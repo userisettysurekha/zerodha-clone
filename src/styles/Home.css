@@ -1,0 +1,7 @@
+.stat-value { font-size: clamp(1.8rem, 4vw, 2.5rem); font-weight: 600; color: var(--blue); margin: 0; }
+.stat-label { margin: 4px 0 0; font-size: .95rem; }
+.pricing-card .price { font-size: 2rem; font-weight: 600; color: #111827; margin: 8px 0 0; }
+.pricing-card .price-unit { font-size: .9rem; margin-bottom: 12px; }
+.check-list { list-style: none; padding: 0; margin: 16px 0 0; font-size: .95rem; color: var(--muted); }
+.check-list li { display: flex; gap: 8px; align-items: flex-start; margin-bottom: 6px; }
+.check-list svg { color: var(--blue); flex: none; margin-top: 4px; }
